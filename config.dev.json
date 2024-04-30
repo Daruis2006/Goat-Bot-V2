@@ -1,6 +1,6 @@
 {
   "facebookAccount": {
-    "email": "ketedaruis05@gmail.com",
+    "email": "",
     "password": "",
     "2FASecret": "",
     "i_user": "",
@@ -17,14 +17,14 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61555850156098"
+    "100095479328934","61555850156098"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "❦🅴✰🅼✰🅰❦",
+  "nickNameBot": ""⚘D⚘A⚘R⚘K⚘E⚘T,
   "prefix": "+",
   "database": {
     "type": "sqlite",
